@@ -1,4 +1,4 @@
-# 24-S1-A3
+
 Gold & Life
 
 ## Running the Tests
